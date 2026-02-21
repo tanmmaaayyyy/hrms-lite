@@ -11,8 +11,7 @@ The system allows an admin to manage employees, mark daily attendance, and view 
 
 ## Live Application
 
-Frontend: https://your-vercel-url.vercel.app  
-Backend: https://your-render-url.onrender.com  
+Live Application Link: https://hrms-lite-beta-olive.vercel.app/
 
 ---
 
